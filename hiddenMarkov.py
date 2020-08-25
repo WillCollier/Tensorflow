@@ -4,14 +4,9 @@
 @author: William Collier
 """
 
-import numpy as np
+
 import tensorflow as tf
-import pandas as pd
-import matplotlib.pyplot as plt
-from IPython.display import clear_output
-from tensorflow import keras
 import tensorflow_probability as tfp
-import tensorflow_datasets as tfds
 
 #%%
 
@@ -21,9 +16,6 @@ Calculating clustering!
 For a given input of starting on a hot or cold day
 predict the temperature of a given day
 """
-
-import tensorflow_probability as tfp
-
 
 tfd = tfp.distributions
 

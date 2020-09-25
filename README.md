@@ -8,7 +8,7 @@ Each file is also commented.
 
 Uses the titanic dataset from google.
 Using linear regression between the nine features to estimate probability of survival.
-linear regression is fitting a line of best fit into the hyper-plane.
+linear regression fits a line of best fit to the hyper-plane.
 
 Tensowflow returns probability of events, rather than a yes/no answer. 
 
